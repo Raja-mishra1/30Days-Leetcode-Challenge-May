@@ -1,2 +1,2 @@
 # -30Days-Leetcode-Challenge-May-
-Contains my pythonic solutions to the 30 days leetcode challenge(May) 
+My pythonic solutions to the 30Day Leetcode challenge -- https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
